@@ -1,4 +1,4 @@
-Phishing Email Analyser
+Email Phishing Analyser
 
 A lightweight Python-based phishing detection tool that analyzes email text and embedded links to identify potential phishing attempts using rule-based heuristics.
 
